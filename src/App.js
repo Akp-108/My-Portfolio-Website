@@ -7,7 +7,7 @@ import Projects from './Pages/Projects'
 import Contact from './Pages/Contact'
 import { Technologies } from './Pages/Technologies'
 import Footer from './Component/Footer'
-import './app.css'
+import './style.css'
 const App = () => {
   return (
     <div className='main'>
