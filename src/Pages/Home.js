@@ -1,7 +1,7 @@
 import React from 'react'
 import './pagesCss/Home.css'
 import Atul from '../Image/Atul.JPG'
-import Akp from '../Image/Atul.pdf'
+import Akp from '../Image/Atul_Kumar.pdf'
 const Home = () => {
   return (
     <div className='Home'>
@@ -17,6 +17,7 @@ const Home = () => {
             <h1>FRONTEND DEVELOPER</h1>
             </section><br /><br />
             <button><a href={Akp} download={Akp}>Download Resume</a></button>
+      
 
         </div>
 

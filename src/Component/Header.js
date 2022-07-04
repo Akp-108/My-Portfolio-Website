@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className='header__top'>
         <div>
-            <h1><Link to= '/home'>ATUL </Link></h1>
+            <h1><Link to= '/home'>AKP-108 </Link></h1>
         </div>
         <ul>
         <li> <Link to= '/home'>Home</Link> </li>
