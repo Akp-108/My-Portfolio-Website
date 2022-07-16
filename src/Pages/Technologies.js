@@ -5,6 +5,8 @@ import js from '../tech/html.png'
 import git from '../tech/git.png'
 import npm from '../tech/npm.png'
 import vs from '../tech/vs.png'
+import postman from '../tech/postman.png'
+import node from '../tech/node.png'
 import react from '../tech/react.png'
 
 
@@ -21,6 +23,7 @@ export const Technologies = () => {
         <img src= {js} alt="" />
         <img src= {html} alt="" />
         <img src= {react} alt="" />
+        <img src= {node} alt="" />
       </div>
        <div className='tools'>
        <h1>Tools</h1>
@@ -29,6 +32,7 @@ export const Technologies = () => {
           <img src={vs} alt="" />
           <img src={git} alt="" />
           <img src={npm} alt="" />
+          <img src={postman} alt="" />
        </div>
     </div>
   )

@@ -24,7 +24,7 @@ export const About = () => {
           <hr />
           <section className='stack'>
             <p>Bachelor in Electronics & Communication</p>
-            <p>2017 - 2022</p>
+            <p>2017 - 2021</p>
           </section>
           <section className='prep'>
             <p>Institute of Technology and managenet</p> <p>Maharajganj</p>

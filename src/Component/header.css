@@ -2,7 +2,6 @@
     display: flex;
     justify-content: space-between;
     text-align: center;
-    /* box-shadow: 5px 5px 10px gray; */
     color: black;
 
 }
@@ -13,7 +12,6 @@
 }
 .header__top ul li{
     display: flex;
-    /* margin-left: 20px; */
     margin-right: 50px;
     justify-content: space-between;
     text-decoration: none;
