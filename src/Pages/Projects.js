@@ -1,6 +1,5 @@
 import React from 'react'
 import Card from '../Component/Card'
-import blog  from '../Image/blog.png'
 import './pagesCss/projectCard.css'
 import {details} from '../Detail'
 const Projects = () => {
